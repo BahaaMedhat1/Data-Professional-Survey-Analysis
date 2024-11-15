@@ -38,8 +38,16 @@ This Power BI report is fully interactive, allowing users to explore:
 - Filters by job title to view specific details related to salary and satisfaction.
 - Drill-downs into programming language preferences by job title.
 
+## Files in This Repository
+
+- **Survey.pbix**: The Power BI report file, which contains the visuals and analysis.
+- **survey_data.xlsx** (or other file format): The original data file used for this analysis, detailing responses from survey participants.
+
 ## How to Use This Repository
 
-1. Download the Power BI report file (`Survey.pbix`).
-2. Open the file in Power BI Desktop to explore the full report and interact with the visuals.
+1. Download both the Power BI report file (`Survey.pbix`) and the data file (`survey_data.xlsx`).
+2. Open the `Survey.pbix` file in Power BI Desktop.
+3. If prompted, load the `survey_data.xlsx` file as the data source to explore the full report and interact with the visuals.
+
+---
 
